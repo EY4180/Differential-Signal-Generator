@@ -4,9 +4,9 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
+Title "Differential Signal Generator"
+Date "2021-07-22"
+Rev "1.0"
 Comp ""
 Comment1 ""
 Comment2 ""
@@ -445,10 +445,10 @@ Wire Wire Line
 	5900 4400 5900 3200
 Connection ~ 5900 4400
 $Comp
-L Device:LED D?
+L Device:LED D1
 U 1 1 610CE31E
 P 4200 5800
-F 0 "D?" H 4193 6017 50  0000 C CNN
+F 0 "D1" H 4193 6017 50  0000 C CNN
 F 1 "GREEN_LED" H 4193 5926 50  0000 C CNN
 F 2 "" H 4200 5800 50  0001 C CNN
 F 3 "~" H 4200 5800 50  0001 C CNN
@@ -456,10 +456,10 @@ F 3 "~" H 4200 5800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_Small_US R?
+L Device:R_Small_US R5
 U 1 1 610CF3DE
 P 4950 5800
-F 0 "R?" V 4745 5800 50  0000 C CNN
+F 0 "R5" V 4745 5800 50  0000 C CNN
 F 1 "470" V 4836 5800 50  0000 C CNN
 F 2 "" H 4950 5800 50  0001 C CNN
 F 3 "~" H 4950 5800 50  0001 C CNN
@@ -467,10 +467,10 @@ F 3 "~" H 4950 5800 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L power:VCC #PWR?
+L power:VCC #PWR05
 U 1 1 610D3C0A
 P 5550 5500
-F 0 "#PWR?" H 5550 5350 50  0001 C CNN
+F 0 "#PWR05" H 5550 5350 50  0001 C CNN
 F 1 "VCC" H 5565 5673 50  0000 C CNN
 F 2 "" H 5550 5500 50  0001 C CNN
 F 3 "" H 5550 5500 50  0001 C CNN
