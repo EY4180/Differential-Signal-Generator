@@ -1,4 +1,4 @@
-# Differential Signal Generator
+# Simple Differential Generator
 
 <img src='img/circuit.svg'/>
 
