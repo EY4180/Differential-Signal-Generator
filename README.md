@@ -1,6 +1,6 @@
 # Differential Signal Generator
 
-<img src='img/circuit.svg' style="background-color:white;"/>
+<img src='img/circuit.svg'/>
 
 ## About
 
