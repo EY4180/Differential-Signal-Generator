@@ -1,7 +1,5 @@
 # Simple Differential Generator
 
-<img src='img/circuit.svg'/>
-
 ## About
 
 <img align="right" width="300" height="200" src="img/protoboard-image.jpg">
