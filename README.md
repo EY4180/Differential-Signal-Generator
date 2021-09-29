@@ -1,6 +1,6 @@
 # Simple Differential Generator
 
-<img align="left" height="200" width="300" src="img/protoboard-image.jpg">
+<img align="left" height="200" src="img/protoboard-image.jpg">
 
 ## About
 
