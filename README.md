@@ -4,6 +4,8 @@
 
 ## About
 
+<img align="right" width="300" height="200" src="img/protoboard-image.jpg">
+
 This simple circuit converts a 5V input signal to a 12mV differential signal
 with a common mode of 2V. The purpose of the circuit was to mimic the behavior
 of a strain gauge for testing.
