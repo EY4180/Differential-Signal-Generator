@@ -1,7 +1,7 @@
 # Simple Differential Generator
 
 <p align="center">
-<img width="400" src="img/protoboard-image.jpg">
+<img width="800" src="img/protoboard-image.jpg">
 </p>
 
 ## About
