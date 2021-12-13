@@ -1,8 +1,41 @@
 # Simple Differential Generator
 
-<p align="center">
-<img width="600" src="img/protoboard-image.jpg">
-</p>
+<table>
+    <tr>
+        <td>
+            <b>Inventor (2022)</b>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="img/A.png">
+        </td>
+    </tr>
+</table>
+<table>
+    <tr>
+        <td>
+            <b>Assembly</b>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="...">
+        </td>
+    </tr>
+</table>
+<table>
+    <tr>
+        <td>
+            <b>Circuit</b>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="img/circuit.svg">
+        </td>
+    </tr>
+</table>
 
 ## About
 
