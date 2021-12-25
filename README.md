@@ -20,7 +20,7 @@
     </tr>
     <tr>
         <td>
-            <img src="...">
+            <img src="img/Assembly.jpg">
         </td>
     </tr>
 </table>
